@@ -126,3 +126,8 @@ html {
     transform: translateY(-100%);
   }
 }
+
+.star-field {
+  position: relative;
+  z-index: -1;  
+}
